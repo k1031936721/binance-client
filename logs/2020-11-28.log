@@ -1,0 +1,350 @@
+2020-11-28 14:00:18 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:00:18 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:00:31 [ERROR] - [Sub][0] Unexpected error: Remote host closed connection during handshake
+2020-11-28 14:00:31 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 14:06:11 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:06:11 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:06:24 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:06:25 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:06:25 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:06:32 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:06:32 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:06:36 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:06:37 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:06:37 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:09:13 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:09:13 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:09:18 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:09:19 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:09:19 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:13:37 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:13:37 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:13:50 [ERROR] - [Sub][0] Unexpected error: Read timed out
+2020-11-28 14:13:50 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 14:14:19 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:14:19 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:14:32 [ERROR] - [Sub][0] Unexpected error: Remote host closed connection during handshake
+2020-11-28 14:14:32 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 14:22:05 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:22:05 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:22:09 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:22:12 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:22:12 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:41:23 [INFO] - [Sub] Connection [id: 0] created for ***Aggregate Trade for btcusdt***
+2020-11-28 14:41:23 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:41:28 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:41:29 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:41:29 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:42:37 [INFO] - [Sub] Connection [id: 0] created for ***All Market Book Tickers***
+2020-11-28 14:42:37 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:42:41 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:44:25 [INFO] - [Sub] Connection [id: 0] created for ***All Liquidation Orders***
+2020-11-28 14:44:25 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:44:30 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:45:30 [INFO] - [Sub] Connection [id: 0] created for ***All Market Mini Tickers
+2020-11-28 14:45:30 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:45:35 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:46:43 [INFO] - [Sub] Connection [id: 0] created for ***All Market Tickers
+2020-11-28 14:46:43 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:46:52 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:46:53 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:46:53 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:47:50 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 14:47:50 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:48:00 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:48:00 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:48:00 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:57:18 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 14:57:18 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:57:23 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:57:24 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:57:24 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 14:57:40 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 14:57:40 [INFO] - [Sub][0] Connecting...
+2020-11-28 14:57:45 [INFO] - [Sub][0] Connected to server
+2020-11-28 14:57:45 [ERROR] - [Sub][0] Closing normally
+2020-11-28 14:57:45 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 15:16:10 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:16:10 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:16:23 [ERROR] - [Sub][0] Unexpected error: Read timed out
+2020-11-28 15:16:23 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 15:16:49 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:16:49 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:17:02 [ERROR] - [Sub][0] Unexpected error: Read timed out
+2020-11-28 15:17:02 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 15:19:47 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:19:47 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:20:00 [ERROR] - [Sub][0] Unexpected error: Remote host closed connection during handshake
+2020-11-28 15:20:00 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 15:20:25 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:20:25 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:20:37 [ERROR] - [Sub][0] Unexpected error: Remote host closed connection during handshake
+2020-11-28 15:20:37 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 15:26:07 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:26:07 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:26:12 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:26:12 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:26:13 [INFO] - [Sub][0] Connected to server
+2020-11-28 15:26:13 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:13 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:15 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:16 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:17 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:17 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:17 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:17 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:17 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:17 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:18 [INFO] - [Sub][0] Connected to server
+2020-11-28 15:26:18 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:18 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:18 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:18 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:19 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:20 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:20 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:20 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:20 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:20 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:21 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:21 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:21 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:21 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:21 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:21 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:21 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:22 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:23 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:23 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:23 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:23 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:23 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:23 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:24 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:24 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:24 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:24 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:25 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:25 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:25 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:25 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:25 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:26 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:27 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:28 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:29 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:29 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:29 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:29 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:29 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:30 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:31 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:31 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:31 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:31 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:32 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:33 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:33 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:33 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:26:33 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:30 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:32:30 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:32:38 [INFO] - [Sub][0] Connected to server
+2020-11-28 15:32:38 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:39 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:39 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:40 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:40 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:41 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:41 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:41 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:41 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:41 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:41 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:42 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:42 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:42 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:43 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:43 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:43 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:43 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:44 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:44 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:44 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:44 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:45 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:45 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:45 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:46 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:46 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:46 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:47 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:48 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:48 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:48 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:48 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:48 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:49 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:49 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:50 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:50 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:50 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:50 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:50 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:51 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:51 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:52 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:52 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:53 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:53 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:53 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:53 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:53 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:53 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:53 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:54 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:54 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:54 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:55 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:55 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:55 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:56 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:56 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:56 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:57 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:57 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:57 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:57 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:58 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:58 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:58 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:58 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:59 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:59 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:59 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:32:59 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:00 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:00 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:00 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:01 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:01 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:01 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:02 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:02 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:02 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:02 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:03 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:04 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:04 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:04 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:04 [ERROR] - [Sub][0] Process error: Non-terminating decimal expansion; no exact representable decimal result. You should capture the exception in your error handler
+2020-11-28 15:33:04 [ERROR] - [Sub][0] Closing normally
+2020-11-28 15:33:04 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 15:38:34 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:38:34 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:38:38 [INFO] - [Sub][0] Connected to server
+2020-11-28 15:38:39 [ERROR] - [Sub][0] Closing normally
+2020-11-28 15:38:39 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 15:40:10 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:40:10 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:40:17 [INFO] - [Sub][0] Connected to server
+2020-11-28 15:40:18 [ERROR] - [Sub][0] Closing normally
+2020-11-28 15:40:18 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 15:51:38 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:51:38 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:51:51 [ERROR] - [Sub][0] Unexpected error: Read timed out
+2020-11-28 15:51:51 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 15:54:24 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:54:24 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:54:36 [INFO] - [Sub][0] Connected to server
+2020-11-28 15:54:37 [ERROR] - [Sub][0] Closing normally
+2020-11-28 15:54:37 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 15:55:45 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:55:45 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:55:49 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 15:55:49 [INFO] - [Sub][0] Connecting...
+2020-11-28 15:55:58 [ERROR] - [Sub][0] Unexpected error: Read timed out
+2020-11-28 15:55:58 [ERROR] - [Sub][0] Connection is closing due to error
+2020-11-28 15:56:00 [INFO] - [Sub][0] Connected to server
+2020-11-28 16:06:04 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 16:06:04 [INFO] - [Sub][0] Connecting...
+2020-11-28 16:06:08 [INFO] - [Sub][0] Connected to server
+2020-11-28 16:06:09 [ERROR] - [Sub][0] Closing normally
+2020-11-28 16:06:09 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 16:06:46 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 16:06:46 [INFO] - [Sub][0] Connecting...
+2020-11-28 16:06:51 [INFO] - [Sub][0] Connected to server
+2020-11-28 16:08:15 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 16:08:15 [INFO] - [Sub][0] Connecting...
+2020-11-28 16:08:21 [INFO] - [Sub][0] Connected to server
+2020-11-28 16:08:21 [ERROR] - [Sub][0] Closing normally
+2020-11-28 16:08:21 [ERROR] - [Sub][0] Unexpected error: socket closed
+2020-11-28 16:09:00 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2020-11-28 16:09:00 [INFO] - [Sub][0] Connecting...
+2020-11-28 16:09:05 [INFO] - [Sub][0] Connected to server
+2020-11-28 16:12:21 [WARN] - [Sub][0] No response from server
+2020-11-28 16:12:21 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2020-11-28 16:12:21 [ERROR] - [Sub][0] Unexpected error: Socket closed
