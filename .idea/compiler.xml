@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="binance-client" />
+        <module name="huobi-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="binance-client" target="1.8" />
+      <module name="huobi-client" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

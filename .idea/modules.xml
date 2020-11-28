@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/binance-client.iml" filepath="$PROJECT_DIR$/binance-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../huobi_Java/huobi-client.iml" filepath="$PROJECT_DIR$/../huobi_Java/huobi-client.iml" />
     </modules>
   </component>
 </project>
